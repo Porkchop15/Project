@@ -1,5 +1,5 @@
 # Setup
->Gradle (Android Studio)
+Gradle (Android Studio)
 >Insert the following dependency to build.gradle file of your project.
 
 ```
