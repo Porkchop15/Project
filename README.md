@@ -1,6 +1,6 @@
 # Setup
-Gradle (Android Studio)
-Insert the following dependency to build.gradle file of your project.
+>Gradle (Android Studio)
+>Insert the following dependency to build.gradle file of your project.
 
 ```
 dependencies {
